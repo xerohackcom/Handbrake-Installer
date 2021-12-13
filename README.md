@@ -10,7 +10,7 @@
 - [x] Installs basic dependencies
 - [x] Installs QSV dependencies (Intel Quick Sync Video)
 - [x] Installs GTK GUI build dependencies
-- [x] Builds handbrake for you
+- [x] Builds handbrake gui with qsv enable flag
   
 ## Usage
 
