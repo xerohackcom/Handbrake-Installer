@@ -20,7 +20,7 @@ Only works with Ubuntu and all it's variants! Run the following command in Termi
 git clone --depth=1 https://github.com/xerohackcom/Handbrake-Installer.git && cd Handbrake-Installer && chmod +x run.sh
 ```
 ```
-sudo bash run.py
+sudo bash run.sh
 ```
   
 Everything will be done automatically :)
