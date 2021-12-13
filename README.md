@@ -17,7 +17,7 @@
 Only works with Ubuntu and all it's variants! Run the following command in Terminal:
 
 ```
-git clone --depth=1 https://github.com/xerohackcom/Handbrake-Installer.git && cd Handbrake-Installer && chmod +x run.py
+git clone --depth=1 https://github.com/xerohackcom/Handbrake-Installer.git && cd Handbrake-Installer && chmod +x run.sh
 ```
 ```
 sudo bash run.py
